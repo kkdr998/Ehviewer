@@ -81,7 +81,7 @@ and [Dynamic Color](https://m3.material.io/styles/color/dynamic-color/overview) 
 Here is the libraries
 
 - [Arrow](https://arrow-kt.io/)
-- [AOSP & AndroidX](http://source.android.com/)
+- [AOSP & AndroidX](https://source.android.com/)
 - [Kotlin & KotlinX](https://kotlinlang.org/)
 - [FullDraggableDrawer](https://github.com/PureWriter/FullDraggableDrawer)
 - [MCA](https://github.com/material-components/material-components-android)
